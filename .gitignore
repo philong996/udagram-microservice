@@ -3,6 +3,8 @@
 
 *set_env.sh
 *.env
+*aws-secret.yaml
+*env-*.yaml
 
 *~
 *.sw[mnpcod]
